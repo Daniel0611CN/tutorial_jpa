@@ -13,7 +13,6 @@ import java.util.Set;
 @NoArgsConstructor
 @Builder
 @EqualsAndHashCode(onlyExplicitlyIncluded = true)
-
 @Entity
 public class Actor {
     @Id
